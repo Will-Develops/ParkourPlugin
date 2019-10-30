@@ -1,0 +1,9 @@
+Settings:
+  Book:
+    Enabled: true
+    Title: 'Magic Book'
+    Author: 'Darkcop'
+    Page1: 'Page1'
+    Page2: 'Page2'
+    Page3: 'Page3'
+    Page4: 'Page4'

@@ -1,0 +1,22 @@
+name: ParkourPlugin
+main: net.thecrafters.parkourplugin.Main
+version: 0.1
+website: https://TheCrafters.net
+description: Parkour Plugin Created For The Crafters Network
+commands:
+   popenmenu:
+      description: ParkourMenu Command
+      usage: /<command>
+   psetspawn:
+      description: Parkour SetSpawn Command
+      usage: /<command>
+   preloadconfig:
+      description: Parkour Reload Config Command
+      usage: /<command>
+permissions:
+  parkourplugin.setspawn:
+    description: Parkour SetSpawn Command
+    default: op
+  parkourplugin.reloadconfig:
+    description: Parkour Reload Config Command
+    default: op
